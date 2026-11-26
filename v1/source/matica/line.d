@@ -1,4 +1,4 @@
-module line;
+module matica.line;
 
 import std.range.primitives : isRandomAccessRange;
 
